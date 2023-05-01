@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Huynh Nhu Yen.
+- I'm a second-year student majoring in Business Administration.
+- 🌱 I’m currently learning tools (Python, Excel, SQL, Power PI) to support data analytics and data visualization.
+- 📫 You can reach me via email: yen.huynhnhu01@gmail.com or LinkedIn: https://www.linkedin.com/in/y%E1%BA%BFn-hu%E1%BB%B3nh-nh%C6%B0-01998a213/ 
